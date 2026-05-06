@@ -17,8 +17,11 @@ I build high-converting websites, luxury brand designs, and digital experiences.
 ## 💼 Featured Projects
 - 🍽 Emily's Restaurant Website (Menu + Order + Reservation)
 - 💎 Personal Brand Coach Website (High-conversion funnel)
-- 🧠 Portfolio Website (Luxury UI/UX)
+- 🧠 Portfolio Website (Luxury UI/UX).
 
+## 📸 Preview
+
+![Home](assets/ads.png)
 ---
 
 ## 📩 Contact Me
