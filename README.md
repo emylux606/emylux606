@@ -21,7 +21,7 @@ I build high-converting websites, luxury brand designs, and digital experiences.
 
 ## 📸 Preview
 
-![Home](Assets/ads.png)
+![Home](Assets/img/ads.png)
 ---
 
 ## 📩 Contact Me
